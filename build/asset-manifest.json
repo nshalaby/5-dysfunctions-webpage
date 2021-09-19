@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dysfunctions-verafin/static/css/main.2485eb3f.chunk.css",
+    "main.js": "/dysfunctions-verafin/static/js/main.f41d628a.chunk.js",
+    "main.js.map": "/dysfunctions-verafin/static/js/main.f41d628a.chunk.js.map",
+    "runtime-main.js": "/dysfunctions-verafin/static/js/runtime-main.b230e011.js",
+    "runtime-main.js.map": "/dysfunctions-verafin/static/js/runtime-main.b230e011.js.map",
+    "static/js/2.02f70050.chunk.js": "/dysfunctions-verafin/static/js/2.02f70050.chunk.js",
+    "static/js/2.02f70050.chunk.js.map": "/dysfunctions-verafin/static/js/2.02f70050.chunk.js.map",
+    "static/js/3.f0c720f7.chunk.js": "/dysfunctions-verafin/static/js/3.f0c720f7.chunk.js",
+    "static/js/3.f0c720f7.chunk.js.map": "/dysfunctions-verafin/static/js/3.f0c720f7.chunk.js.map",
+    "index.html": "/dysfunctions-verafin/index.html",
+    "static/css/main.2485eb3f.chunk.css.map": "/dysfunctions-verafin/static/css/main.2485eb3f.chunk.css.map",
+    "static/js/2.02f70050.chunk.js.LICENSE.txt": "/dysfunctions-verafin/static/js/2.02f70050.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dysfunctions-verafin/static/media/back3.8d5be42f.jpeg",
+    "static/media/logo-white.974f2740.png": "/dysfunctions-verafin/static/media/logo-white.974f2740.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b230e011.js",
+    "static/js/2.02f70050.chunk.js",
+    "static/css/main.2485eb3f.chunk.css",
+    "static/js/main.f41d628a.chunk.js"
+  ]
+}

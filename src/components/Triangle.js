@@ -2,6 +2,11 @@ import { React } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import '../styles/triangle.css';
 
+import trust from "../images/trustss.png";
+import conflict from "../images/conflictss.png";
+import commitment from "../images/commitmentss.png";
+import accountability from "../images/accountabilityss.png";
+
 
 const useStyles = makeStyles({
     root: {
@@ -68,19 +73,19 @@ export const Triangle = () =>
     return(
         <div class="container">
             <div id="trust-overlay" onClick={trustOff}>
-                <img src="../images/trustss.png" id="popup" />
+                <img src={trust} id="popup" />
             </div>
 
             <div id="conflict-overlay" onClick={conflictOff}>
-                <img src="../images/conflictss.png" id="popup" />
+                <img src={conflict} id="popup" />
             </div>
 
             <div id="commit-overlay" onClick={commitOff}>
-                <img src="../images/commitmentss.png" id="popup" />
+                <img src={commitment} id="popup" />
             </div>
 
             <div id="accountability-overlay" onClick={accountabilityOff}>
-                <img src="../images/accountabilityss.png" id="popup" />
+                <img src={accountability} id="popup" />
             </div>
 
             <div id="results-overlay" onClick={resultsOff}>

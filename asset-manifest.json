@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dysfunctions-verafin/static/css/main.2485eb3f.chunk.css",
-    "main.js": "/dysfunctions-verafin/static/js/main.82040d44.chunk.js",
-    "main.js.map": "/dysfunctions-verafin/static/js/main.82040d44.chunk.js.map",
+    "main.js": "/dysfunctions-verafin/static/js/main.121b32c3.chunk.js",
+    "main.js.map": "/dysfunctions-verafin/static/js/main.121b32c3.chunk.js.map",
     "runtime-main.js": "/dysfunctions-verafin/static/js/runtime-main.b230e011.js",
     "runtime-main.js.map": "/dysfunctions-verafin/static/js/runtime-main.b230e011.js.map",
     "static/js/2.02f70050.chunk.js": "/dysfunctions-verafin/static/js/2.02f70050.chunk.js",
@@ -12,13 +12,17 @@
     "index.html": "/dysfunctions-verafin/index.html",
     "static/css/main.2485eb3f.chunk.css.map": "/dysfunctions-verafin/static/css/main.2485eb3f.chunk.css.map",
     "static/js/2.02f70050.chunk.js.LICENSE.txt": "/dysfunctions-verafin/static/js/2.02f70050.chunk.js.LICENSE.txt",
+    "static/media/accountabilityss.8c770019.png": "/dysfunctions-verafin/static/media/accountabilityss.8c770019.png",
     "static/media/App.css": "/dysfunctions-verafin/static/media/back3.8d5be42f.jpeg",
-    "static/media/logo-white.974f2740.png": "/dysfunctions-verafin/static/media/logo-white.974f2740.png"
+    "static/media/commitmentss.056fdc7a.png": "/dysfunctions-verafin/static/media/commitmentss.056fdc7a.png",
+    "static/media/conflictss.b10b8029.png": "/dysfunctions-verafin/static/media/conflictss.b10b8029.png",
+    "static/media/logo-white.974f2740.png": "/dysfunctions-verafin/static/media/logo-white.974f2740.png",
+    "static/media/trustss.77f2c110.png": "/dysfunctions-verafin/static/media/trustss.77f2c110.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b230e011.js",
     "static/js/2.02f70050.chunk.js",
     "static/css/main.2485eb3f.chunk.css",
-    "static/js/main.82040d44.chunk.js"
+    "static/js/main.121b32c3.chunk.js"
   ]
 }

@@ -20,51 +20,63 @@ const useStyles = makeStyles({
 
 export const Triangle = () =>
 {
-    function trustOn() {
+    const trustOn = () =>
+    {
         document.getElementById("trust-overlay").style.display = "block";
     }
     
-    function trustOff() {
+    const trustOff = () =>
+    {
         document.getElementById("trust-overlay").style.display = "none";
     }
 
-    function conflictOn() {
+    const conflictOn = () =>
+    {
         document.getElementById("conflict-overlay").style.display = "block";
     }
     
-    function conflictOff() {
+    const conflictOff = () =>
+    {
         document.getElementById("conflict-overlay").style.display = "none";
     }
 
-    function commitOn() {
+    const commitOn = () =>
+    {
         document.getElementById("commit-overlay").style.display = "block";
     }
     
-    function commitOff() {
+    const commitOff = () =>
+    {
         document.getElementById("commit-overlay").style.display = "none";
     }
 
-    function accountabilityOn() {
+    const accountabilityOn = () =>
+    {
         document.getElementById("accountability-overlay").style.display = "block";
     }
     
-    function accountabilityOff() {
+    const accountabilityOff= () =>
+    {
         document.getElementById("accountability-overlay").style.display = "none";
     }
 
-    function resultsOn() {
+    const resultsOn = () =>
+    {
         document.getElementById("results-overlay").style.display = "block";
     }
     
-    function resultsOff() {
+    const resultsOff = () =>
+    {
         document.getElementById("results-overlay").style.display = "none";
     }
 
-    function resultsVidOff() {
+    const resultsVidOff = () =>
+    {
         document.getElementById("results-vid-overlay").style.display = "none";
     }
 
-    function resultsVidOn() {
+    const resultsVidOn = () =>
+    {
         document.getElementById("results-vid-overlay").style.display = "block";
     }
 
